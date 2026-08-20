@@ -4,7 +4,7 @@
 
 [Website](https://fportillolo.github.io/) · [LinkedIn](https://www.linkedin.com/in/franciscoportillolopez/) · [X](https://x.com/fportillolo)
 
-> Studying language at the intersection of linguistic theory, computation, and artificial intelligence.
+> Studying language at the intersection of Linguistics, Computation, and Cognitive Sciences.
 
 ---
 
@@ -14,11 +14,11 @@ Francisco Portillo — Linguistics student
 
 **`$ research --interests`**
 
-→ Computational Linguistics  
-→ Natural Language Processing  
+→ Computational Linguistics    
 → Spanish Linguistics  
 → Language Models  
 → Neurolinguistics
+→ Natural Language Processing
 
 **`$ currently_working_on`**
 
@@ -45,7 +45,6 @@ Francisco Portillo — Linguistics student
 |---|---|---|
 | 🧠 **Spanish Grammar × NLP** | Computational approaches to grammatical analysis in Spanish. | `building` |
 | 🤖 **LLMs × Linguistics** | Evaluating language models through linguistic experiments. | `researching` |
-| 📚 **Corpus Linguistics** | Corpus-based analysis of Spanish linguistic phenomena. | `planned` |
 | 🧬 **Language × Cognition** | Exploring computational approaches to human language processing. | `exploring` |
 
 
