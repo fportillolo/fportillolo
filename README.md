@@ -9,22 +9,20 @@
 
 ---
 
-**$ whoami**
+**`$ whoami`**
 
-Linguistics student interested in computational approaches to language.
+Francisco Portillo — Linguistics student
 
-**$ research**
+**`$ research --interests`**
 
 → Computational Linguistics  
-→ Natural Language Processing  
-→ Spanish Linguistics  
 → Language Models  
-→ Neurolinguistics  
+→ Neurolinguistics
+→ Spanish Linguistics
+→ Natural Language Processing 
 
-**$ currently_working_on**
+**`$ currently_working_on`**
 
-→ NLP for Spanish  
+→ Cognitive plausibility of LLMs 
 → Linguistic evaluation of language models  
-→ Computational approaches to grammatical analysis  
-
----
+→ Computational approaches to grammatical analysis
