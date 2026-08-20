@@ -1,6 +1,6 @@
 # Francisco Portillo
 
-### Linguistics × NLP × AI
+### Linguistics × AI × Cognitive Sciences
 
 [Website](https://fportillolo.github.io/) · [LinkedIn](https://www.linkedin.com/in/franciscoportillolopez/) · [X](https://x.com/fportillolo)
 
