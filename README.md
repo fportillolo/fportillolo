@@ -2,7 +2,7 @@
 
 ### Linguistics × NLP × AI
 
-[Website](https://fportillolo.github.io/) · [LinkedIn](https://www.linkedin.com/in/franciscoportillolopez/)
+[Website](https://fportillolo.github.io/) · [LinkedIn](https://www.linkedin.com/in/franciscoportillolopez/) · [X](https://x.com/fportillolo)
 
 > Studying language at the intersection of linguistic theory, computation, and artificial intelligence.
 
