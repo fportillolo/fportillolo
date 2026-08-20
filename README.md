@@ -1,17 +1,8 @@
-<table>
-<tr>
-<td width="35%" align="center">
-
-```text
-     ╭──────────────╮
-     │   PORTRAIT   │
-     │              │
-     │      👓      │
-     │              │
-     ╰──────────────╯
 # Francisco Portillo
 
 ### Linguistics × NLP × AI
+
+[ Website ] · [ LinkedIn ] · [ CV ]
 
 > Studying language at the intersection of linguistic theory,
 > computation, and artificial intelligence.
