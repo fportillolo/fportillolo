@@ -2,7 +2,7 @@
 
 ### Linguistics × NLP × AI
 
-[Website] · [LinkedIn] · [CV]
+[Website](https://fportillolo.github.io/) · [LinkedIn](https://www.linkedin.com/in/franciscoportillolopez/)
 
 > Studying language at the intersection of linguistic theory, computation, and artificial intelligence.
 
@@ -67,11 +67,6 @@ Francisco Portillo — Linguistics student
 
 
 ---
-
-**`$ ./connect`**
-
-🌐 [Website](https://fportillolo.github.io/)  
-💼 [LinkedIn](https://www.linkedin.com/in/franciscoportillolopez/)
 
 
 **`$ echo $MISSION`**
