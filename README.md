@@ -25,3 +25,56 @@ Francisco Portillo — Linguistics student
 → Cognitive plausibility of LLMs  
 → Linguistic evaluation of language models  
 → Computational approaches to grammatical analysis
+
+---
+
+**`$ cat research_questions.txt`**
+
+> How do language models represent linguistic knowledge?
+
+> Can computational models capture meaningful properties of human language?
+
+> Where do machine representations of language converge with — and diverge from — human linguistic processing?
+
+
+---
+
+**`$ ls ./projects`**
+
+| Project | Description | Status |
+|---|---|---|
+| 🧠 **Spanish Grammar × NLP** | Computational approaches to grammatical analysis in Spanish. | `building` |
+| 🤖 **LLMs × Linguistics** | Evaluating language models through linguistic experiments. | `researching` |
+| 📚 **Corpus Linguistics** | Corpus-based analysis of Spanish linguistic phenomena. | `planned` |
+| 🧬 **Language × Cognition** | Exploring computational approaches to human language processing. | `exploring` |
+
+
+---
+
+**`$ cat toolkit`**
+
+**Languages**
+
+`Python` · `R`
+
+**NLP & ML**
+
+`spaCy` · `Hugging Face` · `PyTorch`
+
+**Research**
+
+`Google Colab`
+
+
+---
+
+**`$ ./connect`**
+
+🌐 [Website](https://fportillolo.github.io/)  
+💼 [LinkedIn](https://www.linkedin.com/in/franciscoportillolopez/)
+
+
+**`$ echo $MISSION`**
+
+> Investigating how language is represented, processed, and modeled —
+> by humans and by machines.
